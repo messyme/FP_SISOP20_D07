@@ -16,17 +16,17 @@
 
 
 ### 2. Rename
-
+*masih error*
 
 
 ### 3. chmod
-
+*masih belum jalan*
 
 
 ### 4. mv (biasa, *)
-*baru mv biasa*
+*masih belum bisa*
 
 
 ### 5. cp (biasa, -R, *)
-
+*setengah jalan*
 
